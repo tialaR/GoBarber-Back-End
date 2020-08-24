@@ -1,5 +1,5 @@
 
-<h1>🚀  GoBarber back-end</h1>
+<h1>🚀  GoBarber Back-end</h1>
 
 <p>
 This application allows customers (users who want to receive assistance related to the barber shop in question) and service providers (users who provide services to the barber shop) in the scope of authentication to perform the login, registration and password recovery.
