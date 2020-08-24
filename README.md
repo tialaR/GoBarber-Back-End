@@ -20,3 +20,13 @@ Schedules directed to providers are presented as a list according to the afterno
 <p>
 Users (providers or customers) will also be able to change their registration data and insert an avatar to their profile.
 </p>
+
+</br>
+
+![](tela01.png)
+</br>
+
+![](tela02.png)
+</br>
+
+![](tela03.png)
